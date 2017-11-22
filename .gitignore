@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Generated files
+Debug/
+Release/
+Obj/
+Exe/
+List/
+settings/
+*.dep
+*.ewt
